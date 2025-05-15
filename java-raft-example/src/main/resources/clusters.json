@@ -1,0 +1,29 @@
+{
+  "cluster": [
+    {
+      "name": "node1",
+      "raftEndpoint": "localhost:8080",
+      "appEndpoint": "localhost:7000"
+    },
+    {
+      "name": "node2",
+      "raftEndpoint": "localhost:8081",
+      "appEndpoint": "localhost:7001"
+    },
+    {
+      "name": "node3",
+      "raftEndpoint": "localhost:8082",
+      "appEndpoint": "localhost:7002"
+    },
+    {
+      "name": "node4",
+      "raftEndpoint": "localhost:8083",
+      "appEndpoint": "localhost:7003"
+    },
+    {
+      "name": "node5",
+      "raftEndpoint": "localhost:8084",
+      "appEndpoint": "localhost:7004"
+    }
+  ]
+}
